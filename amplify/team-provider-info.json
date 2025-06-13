@@ -17,6 +17,9 @@
       },
       "auth": {
         "amplifyappsyncblog67230776": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
       }
     }
   }
